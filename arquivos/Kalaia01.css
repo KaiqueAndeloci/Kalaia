@@ -1,0 +1,40 @@
+section{
+	margin: 5% 20% 5% 20%
+}
+a{
+	
+}
+body{
+	margin: 0px;
+}
+.texto_oculto{
+	display: none;
+}
+.botão{
+	font-weight: 700;
+	cursor: pointer;
+	border: none;
+	padding: 0 10px;
+	text-decoration: none;
+	display: inline-block;
+	color: #000000;
+}
+
+.botão-cinza{
+	background: #c4c4c4;
+	box-shadow: 0 10px 0 #9a9a9a;
+	color: #000000;
+}
+
+.botão-cinza:hover{
+	background: #9a9a9a;
+	box-shadow: 0 10px 0 #7f7f7f;
+	color: #000000;
+}
+
+.botão-cinza:active{
+	box-shadow: none;
+	position: relative;
+	top: 10px;
+	color: #000000;
+}

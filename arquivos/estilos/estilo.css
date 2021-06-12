@@ -1,0 +1,16 @@
+.estilo_botao {
+    background-color: hsl(0, 0%, 84%);
+    color: #000000;
+    border: none;
+    border-radius: 20%;
+}
+
+.Tela_inicial {
+    background-color: #f3c68b;
+    text-align: center;
+}
+
+.fonte{
+    font-family: Arial;
+    font-size: 20px;
+}
